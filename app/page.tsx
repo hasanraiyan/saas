@@ -43,7 +43,7 @@ Popular Companions
 
            </section>
 
-        <section className="home-section">
+        <section className="home-section md:flex md:justify-evenly md:gap-8">
             <CompanionsList
                 title="Recently completed sessions"
                 companions={recentSessions}

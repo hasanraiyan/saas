@@ -4,7 +4,7 @@ import Link from "next/link";
 
 const Cta = () => {
     return (
-        <section className="cta-section">
+        <section className="cta-section h-fit">
             <div className="cta-badge">
                 Start learning your way!
 
