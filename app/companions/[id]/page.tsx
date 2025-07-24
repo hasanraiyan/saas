@@ -5,3 +5,5 @@ const CompanionSession = () => {
         </div>
     )
 }
+
+export default CompanionSession;
