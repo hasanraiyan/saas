@@ -1,7 +1,6 @@
 import React from 'react'
 import {Button} from "@/components/ui/button";
 
-
 const Page = () => {
   return (
     <div>
@@ -9,6 +8,7 @@ const Page = () => {
       <h1 className="text-2xl underline">
             Welcome to my SaaS app!
           <br />
+
             <Button>
                 Let&apos;s get started!
             </Button>
