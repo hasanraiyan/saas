@@ -21,10 +21,11 @@ const Navbar = () => {
                 <NavItems/>
                 <SignedOut>
                     <div className="flex items-center gap-2">
-                       <button className="btn-signin"
-                       >
-                           SignIn
-                       </button>
+                       <SignInButton>
+                        <button className="btn-signin">
+                            SignIn
+                        </button>
+                    </SignInButton>
                     </div>
                 </SignedOut>
                 <SignedIn>
